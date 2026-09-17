@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\ElektromosRoller.cs" />
+    <Compile Include="Models\MeteoVonat.cs" />
+    <Compile Include="Models\Utazas.cs" />
+    <Compile Include="Models\Vonalbusz.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
